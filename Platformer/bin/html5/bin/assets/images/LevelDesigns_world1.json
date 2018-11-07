@@ -1,0 +1,31 @@
+﻿{"frames": {
+
+"Platform.png":
+{
+	"frame": {"x":0,"y":0,"w":150,"h":75},
+	"pivot": {"x":0,"y":0.33},
+	"rotated": false, 
+	"trimmed": false, 
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":75},
+	"sourceSize": {"w":150,"h":75}
+},
+"Wall.png":
+{
+	"frame": {"x":0,"y":75,"w":150,"h":150},
+	"pivot": {"x":0,"y":0},
+	"rotated": false, 
+	"trimmed": false, 
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.2.126",
+	"image": "LevelDesigns_world1.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"states": true
+
+}
+}

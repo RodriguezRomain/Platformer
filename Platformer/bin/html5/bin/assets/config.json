@@ -1,0 +1,8 @@
+{
+	"version":"0.1.0",
+	"cheat":false,
+	"fps":true,
+	"debug":true,
+	"colliderAlpha":0.5,
+	"rendererAlpha":1
+}

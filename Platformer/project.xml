@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Structure Haxe OpenFL" package="com.isartdigital.Platformer" version="1.0.0" company="Platformer" />
+	<app main="com.isartdigital.Main" path="bin" file="Platformer" />
+
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="spritesheet" />
+	<haxelib name="actuate" />
+	<haxelib name="zame-particles" />
+	<haxelib name="dat.GUI" />
+	
+	
+	<assets path="assets" embed="false" />
+	<assets path="assets/config.json" embed="true" />
+	<assets path="assets/sounds/sounds.json" embed="true" />
+	
+	<library path="assets/libraries/loader.swf" preload="true"/>
+	<library path="assets/libraries/ui.swf" preload ="false"/>
+	
+	<section if="html5">
+		<dependency path="assets/lib/dat.gui.min.js" />
+	</section>
+	
+	<window background="#90908e" orientation="landscape" />
+	<window hardware="true" allow-shaders="true" require-shaders="true" depth-buffer="false" stencil-buffer="true" vsync="false" anti-aliasing="0" />
+	
+</project>

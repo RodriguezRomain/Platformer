@@ -1,0 +1,74 @@
+{
+	"Wall_collider": {
+		"instance35": {
+			"y": 0,
+			"width": 150,
+			"x": 0,
+			"type": "Rectangle",
+			"height": 150
+		}
+	},
+	"Platform_collider": {
+		"instance32": {
+			"y": 0,
+			"width": 150,
+			"x": 0,
+			"type": "Rectangle",
+			"height": 50
+		}
+	},
+	"Player_collider": {
+		"mcFront": {
+			"y": -40,
+			"x": 80,
+			"type": "Point"
+		},
+		"mcCheckBottom": {
+			"y": 20,
+			"x": 0,
+			"type": "Point"
+		},
+		"mcBottom": {
+			"y": 0,
+			"x": 0,
+			"type": "Point"
+		},
+		"mcGlobalBox": {
+			"y": -240,
+			"width": 160,
+			"x": -80,
+			"type": "Rectangle",
+			"height": 240
+		},
+		"mcCheckFront": {
+			"y": -40,
+			"x": 100,
+			"type": "Point"
+		},
+		"mcCamera": {
+			"y": -181.95,
+			"x": 358.95,
+			"type": "Point"
+		},
+		"mcTop": {
+			"y": -240,
+			"x": 0,
+			"type": "Point"
+		},
+		"mcCheckTop": {
+			"y": -260,
+			"x": 0,
+			"type": "Point"
+		},
+		"mcCheckBack": {
+			"y": -40,
+			"x": -100,
+			"type": "Point"
+		},
+		"mcBack": {
+			"y": -40,
+			"x": -80,
+			"type": "Point"
+		}
+	}
+}

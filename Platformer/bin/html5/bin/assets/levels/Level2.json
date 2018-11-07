@@ -1,0 +1,1278 @@
+{
+	"meta": {
+		"width": 3900.9,
+		"height": 1652.7
+	},
+	"LevelDesign": {
+		"instance15": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance18": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 900,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance12": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance192": {
+			"scaleY": 1,
+			"x": 450,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance9": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance48": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance195": {
+			"scaleY": 1,
+			"x": 600,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance6": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance51": {
+			"scaleY": 1,
+			"x": 150,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance198": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 0,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance345": {
+			"scaleY": 1,
+			"x": 2250.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance204": {
+			"scaleY": 1,
+			"x": 2100.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1198.65,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance54": {
+			"scaleY": 1,
+			"x": 600,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance201": {
+			"scaleY": 1,
+			"x": 1950.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1198.65,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance348": {
+			"scaleY": 1,
+			"x": 2400.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance3": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 150,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance57": {
+			"scaleY": 1,
+			"x": 750,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance351": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 150,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance210": {
+			"scaleY": 1,
+			"x": 1950.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1348.65,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance60": {
+			"scaleY": 1,
+			"x": 900,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance207": {
+			"scaleY": 1,
+			"x": 2100.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1348.65,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance354": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance213": {
+			"scaleY": 1,
+			"x": 2400.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance63": {
+			"scaleY": 1,
+			"x": 900,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance357": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance216": {
+			"scaleY": 1,
+			"x": 2550.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance66": {
+			"scaleY": 1,
+			"x": 600,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance360": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance219": {
+			"scaleY": 1,
+			"x": 2700.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance69": {
+			"scaleY": 1,
+			"x": 750,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance363": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 750,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance222": {
+			"scaleY": 1,
+			"x": 2700.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance72": {
+			"scaleY": 1,
+			"x": 450,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance366": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 900,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance225": {
+			"scaleY": 1,
+			"x": 2400.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance75": {
+			"scaleY": 1,
+			"x": 450,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance369": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1050,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance228": {
+			"scaleY": 1,
+			"x": 2550.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance78": {
+			"scaleY": 1,
+			"x": 1200,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance372": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance231": {
+			"scaleY": 1,
+			"x": 2250.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance81": {
+			"scaleY": 1,
+			"x": 1350,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance375": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance234": {
+			"scaleY": 1,
+			"x": 2250.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance84": {
+			"scaleY": 1,
+			"x": 1500,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance378": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance237": {
+			"scaleY": 1,
+			"x": 3000.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance87": {
+			"scaleY": 1,
+			"x": 1500,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance381": {
+			"scaleY": 1,
+			"x": 3750.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 0,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance240": {
+			"scaleY": 1,
+			"x": 3150.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance90": {
+			"scaleY": 1,
+			"x": 1200,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance243": {
+			"scaleY": 1,
+			"x": 3300.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance93": {
+			"scaleY": 1,
+			"x": 1350,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance246": {
+			"scaleY": 1,
+			"x": 3300.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance96": {
+			"scaleY": 1,
+			"x": 1050,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance249": {
+			"scaleY": 1,
+			"x": 3000.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance99": {
+			"scaleY": 1,
+			"x": 1050,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance252": {
+			"scaleY": 1,
+			"x": 3150.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance102": {
+			"scaleY": 1,
+			"x": 1650,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance255": {
+			"scaleY": 1,
+			"x": 2850.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance105": {
+			"scaleY": 1,
+			"x": 1800,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1201.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance258": {
+			"scaleY": 1,
+			"x": 2850.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance108": {
+			"scaleY": 1,
+			"x": 1800,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance261": {
+			"scaleY": 1,
+			"x": 3450.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance111": {
+			"scaleY": 1,
+			"x": 1650,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1351.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance264": {
+			"scaleY": 1,
+			"x": 3600.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance114": {
+			"scaleY": 1,
+			"x": 300,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance267": {
+			"scaleY": 1,
+			"x": 3600.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance117": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance270": {
+			"scaleY": 1,
+			"x": 3450.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance120": {
+			"scaleY": 1,
+			"x": 150,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance273": {
+			"scaleY": 1,
+			"x": 2100.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1500,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance123": {
+			"scaleY": 1,
+			"x": 900,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance276": {
+			"scaleY": 1,
+			"x": 1950.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1500,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance126": {
+			"scaleY": 1,
+			"x": 600,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance279": {
+			"scaleY": 1,
+			"x": 2700.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance129": {
+			"scaleY": 1,
+			"x": 750,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance282": {
+			"scaleY": 1,
+			"x": 2400.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance132": {
+			"scaleY": 1,
+			"x": 450,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance285": {
+			"scaleY": 1,
+			"x": 2550.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance135": {
+			"scaleY": 1,
+			"x": 1500,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance288": {
+			"scaleY": 1,
+			"x": 2250.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance138": {
+			"scaleY": 1,
+			"x": 1200,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance291": {
+			"scaleY": 1,
+			"x": 3300.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance141": {
+			"scaleY": 1,
+			"x": 1350,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance294": {
+			"scaleY": 1,
+			"x": 3000.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance144": {
+			"scaleY": 1,
+			"x": 1050,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance297": {
+			"scaleY": 1,
+			"x": 3150.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance147": {
+			"scaleY": 1,
+			"x": 1800,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance300": {
+			"scaleY": 1,
+			"x": 2850.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance150": {
+			"scaleY": 1,
+			"x": 1650,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1502.7,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance303": {
+			"scaleY": 1,
+			"x": 3600.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance153": {
+			"scaleY": 1,
+			"x": 680,
+			"scaleX": 1,
+			"width": 159.9,
+			"y": 1201.45,
+			"height": 239.8,
+			"type": "Player",
+			"rotation": 0
+		},
+		"instance306": {
+			"scaleY": 1,
+			"x": 3450.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1501.35,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance309": {
+			"scaleY": 1,
+			"x": 1950.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance156": {
+			"scaleY": 1,
+			"x": 450,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance312": {
+			"scaleY": 1,
+			"x": 2100.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance45": {
+			"scaleY": 1,
+			"x": 300,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance315": {
+			"scaleY": 1,
+			"x": 2250.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance42": {
+			"scaleY": 1,
+			"x": 150,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance159": {
+			"scaleY": 1,
+			"x": 600,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance318": {
+			"scaleY": 1,
+			"x": 2400.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance39": {
+			"scaleY": 1,
+			"x": 1800,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance162": {
+			"scaleY": 1,
+			"x": 750,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance321": {
+			"scaleY": 1,
+			"x": 2550.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance168": {
+			"scaleY": 1,
+			"x": 900,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance165": {
+			"scaleY": 1,
+			"x": 750,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance324": {
+			"scaleY": 1,
+			"x": 2550.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance36": {
+			"scaleY": 1,
+			"x": 1650,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance327": {
+			"scaleY": 1,
+			"x": 2700.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance33": {
+			"scaleY": 1,
+			"x": 300,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1350,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance171": {
+			"scaleY": 1,
+			"x": 900,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance330": {
+			"scaleY": 1,
+			"x": 2700.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 600,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance30": {
+			"scaleY": 1,
+			"x": 300,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance174": {
+			"scaleY": 1,
+			"x": 1050,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance333": {
+			"scaleY": 1,
+			"x": 2850.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance27": {
+			"scaleY": 1,
+			"x": 150,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance177": {
+			"scaleY": 1,
+			"x": 1050,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance336": {
+			"scaleY": 1,
+			"x": 2850.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 450,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance183": {
+			"scaleY": 1,
+			"x": 1350,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance180": {
+			"scaleY": 1,
+			"x": 1200,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance339": {
+			"scaleY": 1,
+			"x": 3000.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance186": {
+			"scaleY": 1,
+			"x": 1650.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 900,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance24": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1200,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance342": {
+			"scaleY": 1,
+			"x": 3150.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 300,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		},
+		"instance189": {
+			"scaleY": 1,
+			"x": 1800.9,
+			"scaleX": 1,
+			"width": 150,
+			"y": 900,
+			"height": 150,
+			"type": "Platform",
+			"rotation": 0
+		},
+		"instance21": {
+			"scaleY": 1,
+			"x": 0,
+			"scaleX": 1,
+			"width": 150,
+			"y": 1050,
+			"height": 150,
+			"type": "Wall",
+			"rotation": 0
+		}
+	}
+}
